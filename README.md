@@ -1,2 +1,1 @@
-# E-commerce-Web-app-Backend
-E-commerce web app using Node JS
+# Ecommerce_Web_Backend_NodeJS

@@ -1,0 +1,8 @@
+{
+    "ErrorCredentialParameter": "Please Enter all Details Correctly",
+    "ErrorCredentialEmail": "Please Enter valid Email",
+    "ErrorDuplicateData": "This Data is already used",
+    "ErrorToken": "Invalid Token",
+    "AuthenticationError": "Not authenticated",
+    "AddData":"Data Added Successfully"
+}
